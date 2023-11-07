@@ -162,7 +162,7 @@ $('document').ready(function(){
 		$('#b7').attr('id','b77')
 		$('#b8').attr('id','b88')
 		$('#b9').attr('id','b99')
-		$('#b11').animate({top:240, left: vw-400},500);
+		$('#b11').animate({top:240, left: vw-100},500);
 		$('#b22').animate({top:240, left: vw-300},500);
 		$('#b33').animate({top:240, left: vw-200},500);
 		$('#b44').animate({top:240, left: vw-100},500);
